@@ -1,0 +1,18 @@
+.intro{
+  text-align: center;
+}
+h2.intro {
+  color: brown;
+}
+p.intro {
+  font-weight: lighter;
+  font-style: italic;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+img.intro {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
